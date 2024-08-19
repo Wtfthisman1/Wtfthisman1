@@ -31,7 +31,7 @@
 
 🎉 Спасибо, что заглянули!
 
-[My standart day](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFjbDZoMTdzc3Jmb2JlYjZkcTlpYTZ3eTRlNW56bnN3enFodXZweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ZZSYqvcH6QppFQGI5/giphy-downsized-large.gif)
+[My day](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFjbDZoMTdzc3Jmb2JlYjZkcTlpYTZ3eTRlNW56bnN3enFodXZweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ZZSYqvcH6QppFQGI5/giphy-downsized-large.gif)
 
 <!--
 **Wtfthisman1/Wtfthisman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
